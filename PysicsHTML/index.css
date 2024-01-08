@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+    background-color: black;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content {
+    margin-bottom: 20px;
+}
+
+.text {
+    color: #fffcfc;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.formula-title {
+    color: #1400FF;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
+
+.heading {
+    text-align: center;
+    color: #1400FF;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.box1{
+    
+    color: aquamarine;
+    font-size: larger;
+    size: 90px;
+    font-weight: bold;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 600px) {
+    .text {
+        font-size: 16px;
+    }
+
+    .formula-title {
+        font-size: 18px;
+    }
+
+    .heading {
+        font-size: 28px;
+    }
+    
+}
+

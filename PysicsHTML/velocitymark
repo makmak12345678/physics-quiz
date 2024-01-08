@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    + <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="velocitymark.css">
+    <title>Velocity Example</title>
+</head>
+<body>
+    <div class="container">
+        <div class="heading">VELOCITY</div>
+        <div class="box1"></div>
+        <div class="box2">
+            <span class=blue><br/>Velocity: Direction Matters <br/></span>
+            <span class=>Imagine that two birds leave the same tree at the same time. They both fly at 10 km/h for 5 min, 12 km/h for 8 min, and 5 km/h for 10 min. Why don’t they end up at the same place? The birds went in different directions. Their speeds were the same, but they had different velocities. Velocity (vuh LAHS uh tee) is the speed of an object in a particular/given direction.<br/></span>
+            <!-- ... (Other text spans) ... -->
+            <span class=blue>Describing velocity<br/></span>
+            <span class=>Don’t confuse the terms speed and velocity. They do not have the same meaning. Velocity must include a reference direction. If you say that an airplane’s velocity is 600 km/h, you would not be correct. But you could say the plane’s velocity is 600 km/h south. When you know both the speed and direction of an object’s motion, you know the velocity of the object<br/></span>
+            <span class=blue>Velocity: Direction Matters<br/></span>
+            <span class=>The speeds of these cars may be similar, but the velocities of the cars differ because the cars are going in different directions..<br/><br/><br/></span>
+            <span class=blue>Changing Velocity<br/></span>
+            <span class=>is the rate of change of an object’s position. An object’s velocity is constant only if its speed and direction don’t change. Therefore, constant velocity is always motion along a straight line. An object’s velocity changes if either its speed or direction changes.<br/></span>
+            <span class=blue>Combining Velocities<br/></span>
+            <span class=>Imagine that you are riding in a bus that is traveling east at 15 m/s. You and the other passengers are also traveling at a velocity of 15 m/s east. But suppose you stand up and walk down the bus’s aisle while the bus is moving. Are you still moving at the same velocity as the bus? No! The next slide shows how you can combine velocities to find the resultant velocity.<br/></span>
+            <span class=blue>Formulas <br/></span>
+            <span class=>Speed = Distance Time Distance = Speed x Time Time = Distance Speed<br/><br/><br/></span>
+       
+       
+        </div>
+        
+    </div>
+</body>
+</html>
